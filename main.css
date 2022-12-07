@@ -118,6 +118,8 @@ em {
     font-weight: 800;
 }
 
-#Aimg {
+#img1,
+#img2,
+#img3 {
     background-color: #a30000;
 }
